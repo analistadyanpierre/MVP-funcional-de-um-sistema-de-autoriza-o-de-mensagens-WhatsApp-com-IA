@@ -54,11 +54,11 @@ npm run dev
 
 ## Fluxo do MVP
 
-1. Cadastre regras em **Regras** (ou use as 4 regras seed)
+1. Criando  regras em **Regras** (ou use as 4 regras seed)
 2.  **Simulador**, preencha nome, telefone e mensagem
-3. Clique em **Processar mensagem** — IA + regras definem status
-4. Veja resultado no simulador ou em **Inbox** / **Dashboard**
-5. Abra **Detalhes** para aprovar, bloquear, marcar pendente ou enviar resposta
+3. rodar em **Processar mensagem** — IA + regras definem status
+4. Visualizando resultado no simulador ou em **Inbox** / **Dashboard**
+5. Abrindo **Detalhes** para aprovar, bloquear, marcar pendente ou enviar resposta
 6. Histórico de eventos fica registrado em `message_events`
 
 ## Webhook WhatsApp
